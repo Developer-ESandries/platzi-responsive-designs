@@ -446,7 +446,7 @@ background-repeat: no-repeat;
 
 .plans-container-slider{
   display: flex;
-  height: 340px;
+  height: 350px;
   overflow-x: scroll;
   overscroll-behavior-x: contain;
   scroll-snap-type: x proximity;
